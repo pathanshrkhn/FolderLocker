@@ -1,0 +1,46 @@
+C:\Users\SHER\AppData\Local\Temporary Projects\folder\bin\Debug\folder.exe
+C:\Users\SHER\AppData\Local\Temporary Projects\folder\bin\Debug\folder.pdb
+C:\Users\SHER\AppData\Local\Temporary Projects\folder\bin\Debug\folder.xml
+C:\Users\SHER\AppData\Local\Temporary Projects\folder\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\SHER\AppData\Local\Temporary Projects\folder\obj\x86\Debug\folder.Form1.resources
+C:\Users\SHER\AppData\Local\Temporary Projects\folder\obj\x86\Debug\folder.Resources.resources
+C:\Users\SHER\AppData\Local\Temporary Projects\folder\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\SHER\AppData\Local\Temporary Projects\folder\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\SHER\AppData\Local\Temporary Projects\folder\obj\x86\Debug\folder.exe
+C:\Users\SHER\AppData\Local\Temporary Projects\folder\obj\x86\Debug\folder.xml
+C:\Users\SHER\AppData\Local\Temporary Projects\folder\obj\x86\Debug\folder.pdb
+C:\Users\SHER\AppData\Local\Temporary Projects\folder\obj\x86\Debug\folder.w.resources
+C:\Users\SHER\AppData\Local\Temporary Projects\folder\obj\x86\Debug\folder.AboutBox1.resources
+C:\Users\SHER\Documents\Visual Studio 2010\Projects\folder\folder\bin\Debug\folder.exe
+C:\Users\SHER\Documents\Visual Studio 2010\Projects\folder\folder\bin\Debug\folder.pdb
+C:\Users\SHER\Documents\Visual Studio 2010\Projects\folder\folder\bin\Debug\folder.xml
+C:\Users\SHER\Documents\Visual Studio 2010\Projects\folder\folder\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\SHER\Documents\Visual Studio 2010\Projects\folder\folder\obj\x86\Debug\folder.Form1.resources
+C:\Users\SHER\Documents\Visual Studio 2010\Projects\folder\folder\obj\x86\Debug\folder.Resources.resources
+C:\Users\SHER\Documents\Visual Studio 2010\Projects\folder\folder\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\SHER\Documents\Visual Studio 2010\Projects\folder\folder\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\SHER\Documents\Visual Studio 2010\Projects\folder\folder\obj\x86\Debug\folder.exe
+C:\Users\SHER\Documents\Visual Studio 2010\Projects\folder\folder\obj\x86\Debug\folder.xml
+C:\Users\SHER\Documents\Visual Studio 2010\Projects\folder\folder\obj\x86\Debug\folder.pdb
+E:\Softwares\E soft\my project\folder pass\folder\folder\obj\x86\Debug\folder.exe
+E:\Softwares\E soft\my project\folder pass\folder\folder\obj\x86\Debug\folder.xml
+E:\Softwares\E soft\my project\folder pass\folder\folder\obj\x86\Debug\folder.pdb
+E:\Softwares\E soft\my project\folder pass\folder\folder\bin\Debug\folder.exe
+E:\Softwares\E soft\my project\folder pass\folder\folder\bin\Debug\folder.pdb
+E:\Softwares\E soft\my project\folder pass\folder\folder\bin\Debug\folder.xml
+E:\Softwares\E soft\my project\folder pass\folder\folder\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Softwares\E soft\my project\folder pass\folder\folder\obj\x86\Debug\folder.Form1.resources
+E:\Softwares\E soft\my project\folder pass\folder\folder\obj\x86\Debug\folder.Resources.resources
+E:\Softwares\E soft\my project\folder pass\folder\folder\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Softwares\E soft\my project\folder pass\folder\folder\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Softwares\E soft\my project1\folder pass\folder\folder\obj\x86\Debug\folder.exe
+E:\Softwares\E soft\my project1\folder pass\folder\folder\obj\x86\Debug\folder.xml
+E:\Softwares\E soft\my project1\folder pass\folder\folder\obj\x86\Debug\folder.pdb
+E:\Softwares\E soft\my project1\folder pass\folder\folder\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Softwares\E soft\my project1\folder pass\folder\folder\obj\x86\Debug\folder.Form1.resources
+E:\Softwares\E soft\my project1\folder pass\folder\folder\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Softwares\E soft\my project1\folder pass\folder\folder\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Softwares\E soft\my project1\folder pass\folder\folder\bin\Debug\folder.exe
+E:\Softwares\E soft\my project1\folder pass\folder\folder\bin\Debug\folder.pdb
+E:\Softwares\E soft\my project1\folder pass\folder\folder\bin\Debug\folder.xml
+E:\Softwares\E soft\my project1\folder pass\folder\folder\obj\x86\Debug\folder.Resources.resources

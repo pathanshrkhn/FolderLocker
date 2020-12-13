@@ -1,0 +1,44 @@
+C:\Users\SHER\AppData\Local\Temporary Projects\folder\bin\Release\folder.exe
+C:\Users\SHER\AppData\Local\Temporary Projects\folder\bin\Release\folder.pdb
+C:\Users\SHER\AppData\Local\Temporary Projects\folder\bin\Release\folder.xml
+C:\Users\SHER\AppData\Local\Temporary Projects\folder\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\SHER\AppData\Local\Temporary Projects\folder\obj\x86\Release\folder.Form1.resources
+C:\Users\SHER\AppData\Local\Temporary Projects\folder\obj\x86\Release\folder.Resources.resources
+C:\Users\SHER\AppData\Local\Temporary Projects\folder\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\SHER\AppData\Local\Temporary Projects\folder\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\SHER\AppData\Local\Temporary Projects\folder\obj\x86\Release\folder.exe
+C:\Users\SHER\AppData\Local\Temporary Projects\folder\obj\x86\Release\folder.xml
+C:\Users\SHER\AppData\Local\Temporary Projects\folder\obj\x86\Release\folder.pdb
+C:\Users\SHER\Documents\Visual Studio 2010\Projects\folder\folder\obj\x86\Release\folder.exe
+C:\Users\SHER\Documents\Visual Studio 2010\Projects\folder\folder\obj\x86\Release\folder.xml
+C:\Users\SHER\Documents\Visual Studio 2010\Projects\folder\folder\obj\x86\Release\folder.pdb
+C:\Users\SHER\Documents\Visual Studio 2010\Projects\folder\folder\bin\Release\folder.exe
+C:\Users\SHER\Documents\Visual Studio 2010\Projects\folder\folder\bin\Release\folder.pdb
+C:\Users\SHER\Documents\Visual Studio 2010\Projects\folder\folder\bin\Release\folder.xml
+C:\Users\SHER\Documents\Visual Studio 2010\Projects\folder\folder\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\SHER\Documents\Visual Studio 2010\Projects\folder\folder\obj\x86\Release\folder.Form1.resources
+C:\Users\SHER\Documents\Visual Studio 2010\Projects\folder\folder\obj\x86\Release\folder.Resources.resources
+C:\Users\SHER\Documents\Visual Studio 2010\Projects\folder\folder\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\SHER\Documents\Visual Studio 2010\Projects\folder\folder\obj\x86\Release\GenerateResource.write.1.tlog
+E:\Softwares\E soft\my project\folder pass\folder\folder\bin\Release\folder.exe
+E:\Softwares\E soft\my project\folder pass\folder\folder\bin\Release\folder.pdb
+E:\Softwares\E soft\my project\folder pass\folder\folder\bin\Release\folder.xml
+E:\Softwares\E soft\my project\folder pass\folder\folder\obj\x86\Release\ResolveAssemblyReference.cache
+E:\Softwares\E soft\my project\folder pass\folder\folder\obj\x86\Release\folder.Form1.resources
+E:\Softwares\E soft\my project\folder pass\folder\folder\obj\x86\Release\folder.Resources.resources
+E:\Softwares\E soft\my project\folder pass\folder\folder\obj\x86\Release\GenerateResource.read.1.tlog
+E:\Softwares\E soft\my project\folder pass\folder\folder\obj\x86\Release\GenerateResource.write.1.tlog
+E:\Softwares\E soft\my project\folder pass\folder\folder\obj\x86\Release\folder.exe
+E:\Softwares\E soft\my project\folder pass\folder\folder\obj\x86\Release\folder.xml
+E:\Softwares\E soft\my project\folder pass\folder\folder\obj\x86\Release\folder.pdb
+E:\Softwares\E soft\my project1\folder pass\folder\folder\obj\x86\Release\ResolveAssemblyReference.cache
+E:\Softwares\E soft\my project1\folder pass\folder\folder\obj\x86\Release\folder.Form1.resources
+E:\Softwares\E soft\my project1\folder pass\folder\folder\obj\x86\Release\GenerateResource.read.1.tlog
+E:\Softwares\E soft\my project1\folder pass\folder\folder\obj\x86\Release\GenerateResource.write.1.tlog
+E:\Softwares\E soft\my project1\folder pass\folder\folder\obj\x86\Release\folder.exe
+E:\Softwares\E soft\my project1\folder pass\folder\folder\obj\x86\Release\folder.xml
+E:\Softwares\E soft\my project1\folder pass\folder\folder\obj\x86\Release\folder.pdb
+E:\Softwares\E soft\my project1\folder pass\folder\folder\bin\Release\folder.exe
+E:\Softwares\E soft\my project1\folder pass\folder\folder\bin\Release\folder.pdb
+E:\Softwares\E soft\my project1\folder pass\folder\folder\bin\Release\folder.xml
+E:\Softwares\E soft\my project1\folder pass\folder\folder\obj\x86\Release\folder.Resources.resources
